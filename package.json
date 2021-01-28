@@ -1,6 +1,6 @@
 {
   "name": "stdrpc",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "ES6+ compatible, isomorphic JSON-RPC module for node and the browser.",
   "main": "index.js",
   "scripts": {
@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/montyanderson/stdrpc#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "koa-basic-auth": "^4.0.0",
     "nyc": "^15.1.0"
   },
   "devDependencies": {
     "coveralls": "^3.1.0",
-    "koa": "^2.13.0",
+    "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "koa-json": "^2.0.2",
     "mocha": "^8.2.1"
